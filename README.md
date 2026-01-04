@@ -41,7 +41,7 @@ It allows adding, editing, deleting, and marking tasks as done, with persistence
 ## Link-uri / Links
 
 - Live Demo: [Live Demo URL](https://yourusername.github.io/todo-live-demo)
-- Cod sursă: [GitHub Repository](https://github.com/yourusername/todo-repo)
+- Cod sursă: https://github.com/Barracuda19/todo-list.github.io/tree/main
 
 ---
 
